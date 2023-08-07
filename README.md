@@ -4,13 +4,13 @@
 
 <img align="right" width="400" alt="Green waves" src="https://i.imgur.com/mXiFllL.png"/>
 
-<h2> / about me /</h2>
+<h2> About Me </h2>
   
 - ⭐ currently working on **full-stack development**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
-<h2> / current skills / </h2>
+<h2> Skills </h2>
   
 - <h4> programming & markup languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
@@ -44,8 +44,3 @@
 <a href="https://www.pixiv.net/en/users/471355">Avatar Icon by ccreayus</a>
   </div>
   </div>
-
-<!---
-zillastar/zillastar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
