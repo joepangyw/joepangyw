@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Green waves" src="https://i.imgur.com/wrpNee4.png"/>
+<img align="right" width="400" alt="Yellow waves" src="https://i.imgur.com/wrpNee4.png"/>
 
 <h2> About Me </h2>
   
