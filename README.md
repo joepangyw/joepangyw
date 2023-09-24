@@ -38,7 +38,7 @@
   <img src = "https://img.shields.io/badge/adobe%20xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt = "xd" />
   <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
   <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
-  <img src = "https://img.shields.io/badge/Canva-%00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt = "canva" />
+  <img src = "https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt = "canva" />
   
   </br></br>
   
